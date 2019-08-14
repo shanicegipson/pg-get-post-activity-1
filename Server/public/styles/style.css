@@ -1,0 +1,15 @@
+p {
+    color: white;
+}
+
+body {
+    background-color: grey;
+}
+
+.input-header {
+    text-align: center;
+}
+
+.form-fields {
+    text-align: center;
+}
