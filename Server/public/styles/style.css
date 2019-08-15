@@ -11,5 +11,16 @@ body {
 }
 
 .form-fields {
+    padding: 2%;
+    text-align: center;
+    background-color: #e2e245;
+    border: 5px solid #e2e245;
+}
+
+.book-container {
+    text-align: center;
+}
+
+.book-header {
     text-align: center;
 }
